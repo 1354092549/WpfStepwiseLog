@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30114.105
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WpfStepwiseLog", "WpfStepwiseLog\WpfStepwiseLog.csproj", "{4C951F8F-513E-4D5D-A85F-C20F1579137E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WpfStepwiseLogSample", "WpfStepwiseLogSample\WpfStepwiseLogSample.csproj", "{087A8D68-3ECC-4131-8D56-0A42E246EF69}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4C951F8F-513E-4D5D-A85F-C20F1579137E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4C951F8F-513E-4D5D-A85F-C20F1579137E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4C951F8F-513E-4D5D-A85F-C20F1579137E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4C951F8F-513E-4D5D-A85F-C20F1579137E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{087A8D68-3ECC-4131-8D56-0A42E246EF69}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{087A8D68-3ECC-4131-8D56-0A42E246EF69}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{087A8D68-3ECC-4131-8D56-0A42E246EF69}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{087A8D68-3ECC-4131-8D56-0A42E246EF69}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9ADB127C-5A2B-4912-91F6-CFB2A3A296C8}
+	EndGlobalSection
+EndGlobal
